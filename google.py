@@ -34,8 +34,6 @@ import http.cookiejar
 import os
 import time
 import urllib.request, urllib.parse, urllib.error
-import urllib.request, urllib.error, urllib.parse
-import urllib.parse
 
 try:
     import bs4 as BeautifulSoup
